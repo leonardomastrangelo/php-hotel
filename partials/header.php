@@ -15,7 +15,7 @@ include __DIR__ . "/../Model/db.php";
 
 <body>
     <header>
-        <h1>
+        <h1 class="text-center py-5 display-1 fw-bold">
             PHP Hotel
         </h1>
     </header>
